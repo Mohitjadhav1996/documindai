@@ -125,7 +125,7 @@ Issues and pull requests are welcome. Please keep secrets out of the repo and us
 
 ## Publishing to GitHub
 
-If this folder is not a Git repository yet:
+This repo includes an initial commit. To start fresh instead:
 
 ```bash
 cd documind
@@ -134,7 +134,7 @@ git add .
 git commit -m "Initial commit: DocuMind"
 ```
 
-Create a new empty repository on GitHub (no README license, or delete the default files), then:
+Create a new empty repository on GitHub (or remove GitHub’s default README/license if you prefer this README only), then:
 
 ```bash
 git remote add origin https://github.com/YOUR_USERNAME/documind.git
